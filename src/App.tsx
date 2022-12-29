@@ -1,7 +1,5 @@
-import { useState } from "react";
-
-const App = () => {
-  return <div>App</div>;
+const App = (): JSX.Element => {
+	return <div>App</div>;
 };
 
 export default App;

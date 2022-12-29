@@ -1,0 +1,10 @@
+.eslintrc.cjs
+.prettierrc.cjs
+package-lock.json
+package.json
+*.d.ts
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+.DS_Store
+*.local
